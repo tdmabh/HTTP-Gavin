@@ -1,0 +1,3 @@
+/home/gavin/Desktop/HTTP/build/CMakeFiles/simple_server.dir
+/home/gavin/Desktop/HTTP/build/CMakeFiles/edit_cache.dir
+/home/gavin/Desktop/HTTP/build/CMakeFiles/rebuild_cache.dir
